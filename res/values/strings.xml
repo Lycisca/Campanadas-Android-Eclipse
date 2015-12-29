@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uvas</string>
+    <string name="title_activity_alarm_manager">Campanadas for sure</string>
+	<string name="btOneTime">One-time Timer</string>
+	<string name="instructions">Instrucciones</string>
+	<string name="video">Ver vídeo</string>
+</resources>

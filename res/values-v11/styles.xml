@@ -1,0 +1,5 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/index</item>
+     </style>
+</resources>
